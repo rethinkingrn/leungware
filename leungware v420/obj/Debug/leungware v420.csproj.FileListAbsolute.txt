@@ -1,0 +1,10 @@
+C:\Users\Matthew\source\repos\leungware v420\leungware v420\obj\Debug\leungware v420.csprojAssemblyReference.cache
+C:\Users\Matthew\source\repos\leungware v420\leungware v420\obj\Debug\leungware_v420.Form1.resources
+C:\Users\Matthew\source\repos\leungware v420\leungware v420\obj\Debug\leungware_v420.Properties.Resources.resources
+C:\Users\Matthew\source\repos\leungware v420\leungware v420\obj\Debug\leungware v420.csproj.GenerateResource.cache
+C:\Users\Matthew\source\repos\leungware v420\leungware v420\obj\Debug\leungware v420.csproj.CoreCompileInputs.cache
+C:\Users\Matthew\source\repos\leungware v420\leungware v420\bin\Debug\leungware v420.exe.config
+C:\Users\Matthew\source\repos\leungware v420\leungware v420\bin\Debug\leungware v420.exe
+C:\Users\Matthew\source\repos\leungware v420\leungware v420\bin\Debug\leungware v420.pdb
+C:\Users\Matthew\source\repos\leungware v420\leungware v420\obj\Debug\leungware v420.exe
+C:\Users\Matthew\source\repos\leungware v420\leungware v420\obj\Debug\leungware v420.pdb
