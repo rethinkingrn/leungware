@@ -1,6 +1,6 @@
 ﻿namespace leungware_v420
 {
-    partial class Form1
+    partial class LeungWareFormOrigin
     {
         /// <summary>
         /// Required designer variable.
@@ -99,7 +99,7 @@
             this.Controls.Add(this.pictureBox2);
             this.Controls.Add(this.pictureBox1);
             this.Name = "Form1";
-            this.Text = "HenrySexy";
+            this.Text = "LeungWareForms";
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
