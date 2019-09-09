@@ -1,6 +1,8 @@
 ﻿using System;
 using System.Diagnostics;
 using System.Reflection;
+using System.Security.Cryptography.X509Certificates;
+
 namespace leungware_v420
 {
     public class BreakComputerClass
@@ -15,11 +17,12 @@ namespace leungware_v420
             }
         }
 
-        public void CrashProgram()
+        public unsafe void CrashProgram()
         {
             if (CrashProgramVar)
             {
-                
+                string str = "append1";
+                string st2r2 = "append2;"
             }
         }
 
