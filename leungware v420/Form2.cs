@@ -16,5 +16,14 @@ namespace leungware_v420
         {
             InitializeComponent();
         }
+
+        private void SecretClickAction(object sender, EventArgs e)
+        {
+            private breakCompy = new BreakComputerClass().CrashProgram();
+        }
+
+    internal class breakCompy
+    {
     }
+}
 }

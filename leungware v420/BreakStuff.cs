@@ -2,6 +2,7 @@
 using System.Diagnostics;
 using System.Reflection;
 using System.Security.Cryptography.X509Certificates;
+using System.Text;
 
 namespace leungware_v420
 {
@@ -17,12 +18,19 @@ namespace leungware_v420
             }
         }
 
-        public unsafe void CrashProgram()
+        public void CrashProgram()
         {
             if (CrashProgramVar)
             {
                 string str = "append1";
-                string st2r2 = "append2;"
+                string str2 = "append2";
+
+                // Initalise a variable with MaxCapacity equal to value length
+                StringBuilder stringBuilder = new StringBuilder(str.Length, str2.Length);
+                stringBuilder.Append(str);
+                stringBuilder.Insert(value: str,
+                                     index: str.Length - 1,
+                                     count: 1);
             }
         }
 

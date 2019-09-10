@@ -15,12 +15,15 @@ namespace leungware_v420
         public Form1()
         {
             MessageBox.Show("i dont know how to code");
+
             InitializeComponent();
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
             MessageBox.Show("useless af why are you looking here");
+            Form2 f2 = new Form2();
+            f2.ShowDialog();
         }
     }
 }
