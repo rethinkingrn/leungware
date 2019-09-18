@@ -18,7 +18,7 @@ namespace leungware_v420
         private static Tuple<double, long> GetResult()
         {
             /* Allocates retard levels of things into memory, effectively crashing the program, and in low memory systems
-             (e.g John's Computer, may cause a total failure of the computer.*/
+             (e.g John's Computer), may cause a total failure of the computer.*/
             long chunkSize = Int64.MaxValue;
             long nSizeGetter = Int64.MaxValue;
             Random random = new Random();
