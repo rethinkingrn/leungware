@@ -18,9 +18,12 @@ namespace leungware_v420
             InitializeComponent();
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void HenryHomhoClick(object sender, EventArgs e)
         {
             MessageBox.Show("useless af why are you looking here");
+            MessageBox.Show("or is it?");
+            var LeungWareToolBoard = new LeungWareToolBoard();
+            LeungWareToolBoard.Show();
         }
     }
 }

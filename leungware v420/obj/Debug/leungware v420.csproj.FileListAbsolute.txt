@@ -8,3 +8,14 @@ C:\Users\Matthew\source\repos\leungware v420\leungware v420\bin\Debug\leungware 
 C:\Users\Matthew\source\repos\leungware v420\leungware v420\bin\Debug\leungware v420.pdb
 C:\Users\Matthew\source\repos\leungware v420\leungware v420\obj\Debug\leungware v420.exe
 C:\Users\Matthew\source\repos\leungware v420\leungware v420\obj\Debug\leungware v420.pdb
+C:\leungware\leungware v420\bin\Debug\leungware v420.exe.config
+C:\leungware\leungware v420\bin\Debug\leungware v420.exe
+C:\leungware\leungware v420\bin\Debug\leungware v420.pdb
+C:\leungware\leungware v420\obj\Debug\leungware v420.csprojAssemblyReference.cache
+C:\leungware\leungware v420\obj\Debug\leungware_v420.Form1.resources
+C:\leungware\leungware v420\obj\Debug\leungware_v420.Properties.Resources.resources
+C:\leungware\leungware v420\obj\Debug\leungware v420.csproj.GenerateResource.cache
+C:\leungware\leungware v420\obj\Debug\leungware v420.csproj.CoreCompileInputs.cache
+C:\leungware\leungware v420\obj\Debug\leungware v420.exe
+C:\leungware\leungware v420\obj\Debug\leungware v420.pdb
+C:\leungware\leungware v420\obj\Debug\leungware_v420.LeungWareToolBoard.resources
