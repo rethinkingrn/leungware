@@ -1,5 +1,4 @@
 using System;
-using System.Security.Cryptography.X509Certificates;
 using System.Windows.Forms;
 
 namespace leungware_v420
@@ -16,6 +15,16 @@ namespace leungware_v420
         {
             DoExcecuteWithAdminRights = true;
         }
-        
+
+        private void LeungWareToolBoard_Load(object sender, EventArgs e)
+        {
+            
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            var instance = new ExecutorClass();
+            instance.LaunchFileOfExeExt("Chrome.exe", DoExcecuteWithAdminRights);
+        }
     }
 }

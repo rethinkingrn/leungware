@@ -22,8 +22,13 @@ namespace leungware_v420
         {
             MessageBox.Show("useless af why are you looking here");
             MessageBox.Show("or is it?");
-            var LeungWareToolBoard = new LeungWareToolBoard();
-            LeungWareToolBoard.Show();
+            var leungWareToolBoard = new LeungWareToolBoard();
+            leungWareToolBoard.Show();
+        }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+            throw new System.NotImplementedException();
         }
     }
 }

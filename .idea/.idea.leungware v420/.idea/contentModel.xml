@@ -5,6 +5,7 @@
       <e p="leungware v420" t="IncludeRecursive">
         <e p="App.config" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
+        <e p="ExecutorClass.cs" t="Include" />
         <e p="Form1.cs" t="Include" />
         <e p="Form1.Designer.cs" t="Include" />
         <e p="Form1.resx" t="Include" />
@@ -23,9 +24,9 @@
           <e p="Settings.settings" t="Include" />
         </e>
         <e p="Resources" t="Include">
-          <e p="12.jpg" t="Include" />
-          <e p="1212121.jpg" t="Include" />
-          <e p="3s12s312s3.PNG" t="Include" />
+          <e p="HenryDistorted.png" t="Include" />
+          <e p="HenryLooking.jpg" t="Include" />
+          <e p="HenrySnapchat.jpg" t="Include" />
         </e>
       </e>
       <e p="leungware v420.sln" t="IncludeFlat" />
