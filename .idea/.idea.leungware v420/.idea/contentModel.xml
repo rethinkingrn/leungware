@@ -5,6 +5,7 @@
       <e p="leungware v420" t="IncludeRecursive">
         <e p="App.config" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
+<<<<<<< HEAD
         <e p="clicker.cs" t="Include" />
         <e p="clicker.Designer.cs" t="Include" />
         <e p="clicker.resx" t="Include" />
@@ -22,6 +23,15 @@
         <e p="placebo area.cs" t="Include" />
         <e p="placebo area.Designer.cs" t="Include" />
         <e p="placebo area.resx" t="Include" />
+=======
+        <e p="Form1.cs" t="Include" />
+        <e p="Form1.Designer.cs" t="Include" />
+        <e p="Form1.resx" t="Include" />
+        <e p="Form2.cs" t="Include" />
+        <e p="Form2.Designer.cs" t="Include" />
+        <e p="leungware v420.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+>>>>>>> working
         <e p="Program.cs" t="Include" />
         <e p="Properties" t="Include">
           <e p="AssemblyInfo.cs" t="Include" />
@@ -31,18 +41,29 @@
           <e p="Settings.settings" t="Include" />
         </e>
         <e p="Resources" t="Include">
+<<<<<<< HEAD
           <e p="21-gaming-setups-in-fridge.png" t="Include" />
           <e p="download.jpg" t="Include" />
           <e p="HenryDistorted.png" t="Include" />
           <e p="HenryLooking.jpg" t="Include" />
           <e p="HenrySnapchat.jpg" t="Include" />
           <e p="hqdefault.jpg" t="Include" />
+=======
+          <e p="12.jpg" t="Include" />
+          <e p="1212121.jpg" t="Include" />
+          <e p="3s12s312s3.PNG" t="Include" />
+>>>>>>> working
         </e>
       </e>
       <e p="leungware v420.sln" t="IncludeFlat" />
       <e p="packages" t="ExcludeRecursive" />
     </e>
+<<<<<<< HEAD
     <e p="C:\Users\TheDe\.Rider2019.2\system\extResources" t="IncludeRecursive" />
     <e p="C:\Users\TheDe\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_leungware v420.472611693.00" t="ExcludeRecursive" />
+=======
+    <e p="C:\Users\TheDe\.Rider2019.1\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\TheDe\.Rider2019.1\system\resharper-host\local\Transient\ReSharperHost\v191\SolutionCaches\_leungware v420.472611693.00" t="ExcludeRecursive" />
+>>>>>>> working
   </component>
 </project>
