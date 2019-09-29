@@ -18,7 +18,6 @@ C:\leungware\leungware v420\obj\Debug\leungware v420.csproj.GenerateResource.cac
 C:\leungware\leungware v420\obj\Debug\leungware v420.csproj.CoreCompileInputs.cache
 C:\leungware\leungware v420\obj\Debug\leungware v420.exe
 C:\leungware\leungware v420\obj\Debug\leungware v420.pdb
-<<<<<<< HEAD
 C:\leungware\leungware v420\obj\Debug\leungware_v420.LeungWareToolBoard.resources
 C:\Users\Matthew\Documents\leungware-master\leungware v420\obj\Debug\leungware_v420.Form1.resources
 C:\Users\Matthew\Documents\leungware-master\leungware v420\obj\Debug\leungware_v420.PLACEBO.resources
@@ -43,6 +42,3 @@ C:\Users\Matthew\Documents\GitHub\leungware\leungware v420\obj\Debug\leungware v
 C:\Users\Matthew\Documents\GitHub\leungware\leungware v420\obj\Debug\leungware v420.exe
 C:\Users\Matthew\Documents\GitHub\leungware\leungware v420\obj\Debug\leungware v420.pdb
 C:\Users\Matthew\Documents\GitHub\leungware\leungware v420\obj\Debug\leungware v420.csprojAssemblyReference.cache
-=======
-C:\leungware\leungware v420\obj\Debug\leungware_v420.Form2.resources
->>>>>>> working
