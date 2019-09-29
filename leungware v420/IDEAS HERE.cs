@@ -2,6 +2,7 @@
 
 // needing to add
 
+// making a better looking gui
 // finish the placebo section
 //  -add more placebo options
 

@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Diagnostics;
 
 namespace leungware_v420
 {
@@ -28,6 +29,18 @@ namespace leungware_v420
             _ = MessageBox.Show("We (randonandoz and rethinking.) arnt responsible for anything that happenes");
             var Clicker = new clicker();
             Clicker.Show();
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+        }
+
+        private void button2_Click_1(object sender, EventArgs e)
+        {
+            this.Hide();
+            MessageBox.Show("enjoy vac ban bro");
+            var CSGO = new leungHOOK();
+            CSGO.Show();
         }
     }
 }

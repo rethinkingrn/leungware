@@ -26,5 +26,11 @@ namespace leungware_v420
             var instance = new ExecutorClass();
             instance.LaunchFileOfExeExt("Chrome.exe", DoExcecuteWithAdminRights);
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            var instance = new ExecutorClass();
+            instance.LaunchFileOfExeExt("cmd.exe", DoExcecuteWithAdminRights);
+        }
     }
 }
