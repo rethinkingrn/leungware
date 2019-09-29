@@ -48,11 +48,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-<<<<<<< HEAD
     <Compile Include="ExecutorClass.cs" />
-=======
-    <Compile Include="BreakStuff.cs" />
->>>>>>> working
+
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
