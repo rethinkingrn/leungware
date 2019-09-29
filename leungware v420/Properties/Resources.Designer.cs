@@ -83,6 +83,16 @@ namespace leungware_v420.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap _21_gaming_setups_in_fridge {
+            get {
+                object obj = ResourceManager.GetObject("21-gaming-setups-in-fridge", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap _3s12s312s3 {
             get {
                 object obj = ResourceManager.GetObject("3s12s312s3", resourceCulture);

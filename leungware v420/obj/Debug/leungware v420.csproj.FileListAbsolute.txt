@@ -30,3 +30,15 @@ C:\Users\Matthew\Documents\leungware-master\leungware v420\bin\Debug\leungware v
 C:\Users\Matthew\Documents\leungware-master\leungware v420\bin\Debug\leungware v420.pdb
 C:\Users\Matthew\Documents\leungware-master\leungware v420\obj\Debug\leungware v420.exe
 C:\Users\Matthew\Documents\leungware-master\leungware v420\obj\Debug\leungware v420.pdb
+C:\Users\Matthew\Documents\GitHub\leungware\leungware v420\bin\Debug\leungware v420.exe.config
+C:\Users\Matthew\Documents\GitHub\leungware\leungware v420\bin\Debug\leungware v420.exe
+C:\Users\Matthew\Documents\GitHub\leungware\leungware v420\bin\Debug\leungware v420.pdb
+C:\Users\Matthew\Documents\GitHub\leungware\leungware v420\obj\Debug\leungware_v420.Form1.resources
+C:\Users\Matthew\Documents\GitHub\leungware\leungware v420\obj\Debug\leungware_v420.PLACEBO.resources
+C:\Users\Matthew\Documents\GitHub\leungware\leungware v420\obj\Debug\leungware_v420.clicker.resources
+C:\Users\Matthew\Documents\GitHub\leungware\leungware v420\obj\Debug\leungware_v420.LeungWareToolBoard.resources
+C:\Users\Matthew\Documents\GitHub\leungware\leungware v420\obj\Debug\leungware_v420.Properties.Resources.resources
+C:\Users\Matthew\Documents\GitHub\leungware\leungware v420\obj\Debug\leungware v420.csproj.GenerateResource.cache
+C:\Users\Matthew\Documents\GitHub\leungware\leungware v420\obj\Debug\leungware v420.exe
+C:\Users\Matthew\Documents\GitHub\leungware\leungware v420\obj\Debug\leungware v420.pdb
+C:\Users\Matthew\Documents\GitHub\leungware\leungware v420\obj\Debug\leungware v420.csprojAssemblyReference.cache

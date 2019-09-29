@@ -51,5 +51,15 @@ namespace leungware_v420
             var placebo = new PLACEBO();
             placebo.Show();
         }
+
+        private void pictureBox3_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pictureBox3_Click_1(object sender, EventArgs e)
+        {
+
+        }
     }
 }

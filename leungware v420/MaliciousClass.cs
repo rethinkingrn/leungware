@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Reflection;
 using System.Diagnostics;
-
+// maybe explain what half of these things are
 namespace leungware_v420
 {
     public class MaliciousClass
