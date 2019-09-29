@@ -1,0 +1,6 @@
+C:\leungware\leungware v420\obj\Release\leungware v420.csprojAssemblyReference.cache
+C:\leungware\leungware v420\obj\Release\leungware_v420.Form1.resources
+C:\leungware\leungware v420\obj\Release\leungware_v420.LeungWareToolBoard.resources
+C:\leungware\leungware v420\obj\Release\leungware_v420.Properties.Resources.resources
+C:\leungware\leungware v420\obj\Release\leungware v420.csproj.GenerateResource.cache
+C:\leungware\leungware v420\obj\Release\leungware v420.csproj.CoreCompileInputs.cache
