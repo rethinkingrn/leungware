@@ -16,6 +16,7 @@ namespace leungware_v420
         public Form1()
         {
             MessageBox.Show("i dont know how to code");
+
             InitializeComponent();
         }
 

@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fd366816-8037-4d40-8f49-1ce41a48f7b7" name="Default Changelist" comment="">
+<<<<<<< HEAD
       <change afterPath="$PROJECT_DIR$/leungware v420/ExecutorClass.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.leungware v420/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.leungware v420/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.leungware v420/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.leungware v420/.idea/workspace.xml" afterDir="false" />
@@ -22,6 +23,19 @@
       <change beforePath="$PROJECT_DIR$/leungware v420/obj/Debug/leungware v420.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/leungware v420/obj/Debug/leungware v420.csprojAssemblyReference.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/leungware v420/obj/Debug/leungware_v420.Form1.resources" beforeDir="false" afterPath="$PROJECT_DIR$/leungware v420/obj/Debug/leungware_v420.Form1.resources" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/leungware v420/obj/Debug/leungware_v420.Properties.Resources.resources" beforeDir="false" afterPath="$PROJECT_DIR$/leungware v420/obj/Debug/leungware_v420.Properties.Resources.resources" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/.vs/leungware v420/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/leungware v420/v16/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/leungware v420/v16/Server/sqlite3/storage.ide" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/leungware v420/v16/Server/sqlite3/storage.ide" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/leungware v420/v16/Server/sqlite3/storage.ide-wal" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/leungware v420/v16/Server/sqlite3/storage.ide-wal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leungware v420/BreakStuff.cs" beforeDir="false" afterPath="$PROJECT_DIR$/leungware v420/BreakStuff.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leungware v420/Form1.cs" beforeDir="false" afterPath="$PROJECT_DIR$/leungware v420/Form1.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leungware v420/Form2.Designer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/leungware v420/Form2.Designer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leungware v420/Form2.cs" beforeDir="false" afterPath="$PROJECT_DIR$/leungware v420/Form2.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leungware v420/leungware v420.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/leungware v420/leungware v420.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leungware v420/obj/Debug/leungware v420.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/leungware v420/obj/Debug/leungware v420.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leungware v420/obj/Debug/leungware v420.csproj.GenerateResource.cache" beforeDir="false" afterPath="$PROJECT_DIR$/leungware v420/obj/Debug/leungware v420.csproj.GenerateResource.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leungware v420/obj/Debug/leungware v420.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/leungware v420/obj/Debug/leungware v420.csprojAssemblyReference.cache" afterDir="false" />
+>>>>>>> working
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,6 +44,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
+<<<<<<< HEAD
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/leungware v420/Form1.cs">
@@ -117,11 +132,53 @@
                 <marker date="1569287297910" expanded="true" signature="726:889" ph="/// Required method for Designer support - do not modify ... " />
                 <marker date="1569287297910" expanded="true" signature="932:2901" ph="{...}" />
               </folding>
+=======
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leungware v420/Form2.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="96">
+              <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+              <folding>
+                <marker date="1567994677075" expanded="false" signature="6:213" ph="..." />
+                <marker date="1567994677075" expanded="true" signature="239:572" ph="{...}" />
+                <marker date="1567994677075" expanded="true" signature="279:570" ph="{...}" />
+                <marker date="1567994677075" expanded="true" signature="308:363" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+          <provider editor-type-id="WinFormsEditor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/leungware v420/Form1.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="18" column="34" lean-forward="true" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
+              <folding>
+                <marker date="1567994493634" expanded="false" signature="6:213" ph="..." />
+                <marker date="1567994493634" expanded="true" signature="239:645" ph="{...}" />
+                <marker date="1567994493634" expanded="true" signature="279:643" ph="{...}" />
+                <marker date="1567994493634" expanded="true" signature="308:420" ph="{...}" />
+                <marker date="1567994493634" expanded="true" signature="484:637" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+          <provider editor-type-id="WinFormsEditor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leungware v420/Form1.resx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+>>>>>>> working
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/leungware v420/ExecutorClass.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="528">
@@ -151,11 +208,39 @@
                 <marker date="1568819800906" expanded="true" signature="177:509" ph="{...}" />
                 <marker date="1568819800906" expanded="true" signature="192:282" ph="/// The main entry point for the application. ... " />
                 <marker date="1568819800906" expanded="true" signature="329:503" ph="{...}" />
+=======
+        <entry file="file://$PROJECT_DIR$/leungware v420/Resources/3s12s312s3.PNG">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leungware v420/Form1.Designer.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="672">
+              <caret line="116" column="17" selection-start-line="116" selection-start-column="17" selection-end-line="116" selection-end-column="17" />
+              <folding>
+                <marker date="1567991809349" expanded="true" signature="24:5257" ph="{...}" />
+                <marker date="1567991809349" expanded="true" signature="50:5255" ph="{...}" />
+                <marker date="1567991809349" expanded="true" signature="65:141" ph="/// Required designer variable. ... " />
+                <marker date="1567991809349" expanded="true" signature="219:410" ph="/// Clean up any resources being used. ... " />
+                <marker date="1567991809349" expanded="true" signature="466:640" ph="{...}" />
+                <marker date="1567991809349" expanded="true" signature="527:593" ph="{...}" />
+                <marker date="1567991809349" expanded="false" signature="650:4961" ph="Windows Form Designer generated code" />
+                <marker date="1567991809349" expanded="true" signature="704:867" ph="/// Required method for Designer support - do not modify ... " />
+                <marker date="1567991809349" expanded="true" signature="910:4941" ph="{...}" />
+                <marker date="1567991809349" expanded="true" signature="1563:1604" ph="/* label1 ... */" />
+                <marker date="1567991809349" expanded="true" signature="1999:2045" ph="/* pictureBox3 ... */" />
+                <marker date="1567991809349" expanded="true" signature="2529:2575" ph="/* pictureBox2 ... */" />
+                <marker date="1567991809349" expanded="true" signature="3063:3109" ph="/* pictureBox1 ... */" />
+                <marker date="1567991809349" expanded="true" signature="3585:3627" ph="/* button1 ... */" />
+                <marker date="1567991809349" expanded="true" signature="4041:4081" ph="/* Form1 ... */" />
+>>>>>>> working
               </folding>
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/leungware v420/Form1.resx">
           <provider selected="true" editor-type-id="text-editor" />
@@ -166,12 +251,15 @@
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
+=======
+>>>>>>> working
     </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+<<<<<<< HEAD
     <setting file="file://$PROJECT_DIR$/leungware v420/App.config" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/leungware v420/Properties/Resources.Designer.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/leungware v420/MaliciousClass.cs" root0="FORCE_HIGHLIGHTING" />
@@ -211,6 +299,26 @@
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
+=======
+    <setting file="file://$PROJECT_DIR$/leungware v420/Form1.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/leungware v420/Form1.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/leungware v420/Form2.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/leungware v420/Form1.resx" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/.idea.leungware v420/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/.idea.leungware v420/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/.idea.leungware v420/.idea/indexLayout.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="933" />
+    <option name="width" value="1634" />
+    <option name="height" value="1407" />
+>>>>>>> working
   </component>
   <component name="ProjectView">
     <navigator currentView="SolutionExplorer" proportions="" version="1">
@@ -218,6 +326,10 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+<<<<<<< HEAD
+=======
+      <pane id="AssemblyExplorer" />
+>>>>>>> working
       <pane id="SolutionExplorer">
         <subPane>
           <expand>
@@ -234,20 +346,63 @@
               <item name="" type="784c90a0:SolutionExplorerRootNode" />
               <item name="leungware v420" type="24d0babc:SolutionExplorerModelNode" />
               <item name="leungware v420" type="24d0babc:SolutionExplorerModelNode" />
+<<<<<<< HEAD
+              <item name="Properties" type="24d0babc:SolutionExplorerModelNode" />
+=======
+              <item name="References" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="leungware v420" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="leungware v420" type="24d0babc:SolutionExplorerModelNode" />
               <item name="Properties" type="24d0babc:SolutionExplorerModelNode" />
             </path>
             <path>
               <item name="" type="784c90a0:SolutionExplorerRootNode" />
               <item name="leungware v420" type="24d0babc:SolutionExplorerModelNode" />
               <item name="leungware v420" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Properties" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Resources.resx" type="24d0babc:SolutionExplorerModelNode" />
+>>>>>>> working
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="leungware v420" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="leungware v420" type="24d0babc:SolutionExplorerModelNode" />
+<<<<<<< HEAD
               <item name="LeungWareToolBoard.cs" type="24d0babc:SolutionExplorerModelNode" />
+=======
+              <item name="Properties" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Settings.settings" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="leungware v420" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="leungware v420" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Resources" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="leungware v420" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="leungware v420" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Form1.cs" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="leungware v420" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="leungware v420" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Form2.cs" type="24d0babc:SolutionExplorerModelNode" />
+>>>>>>> working
             </path>
           </expand>
           <select />
         </subPane>
         <option name="show-all-files" value="false" />
       </pane>
+<<<<<<< HEAD
       <pane id="AssemblyExplorer" />
+=======
+>>>>>>> working
       <pane id="FileSystemExplorer" />
     </panes>
   </component>
@@ -264,7 +419,11 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+<<<<<<< HEAD
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+=======
+    <property name="settings.editor.selected.configurable" value="AndroidSettingsPageId" />
+>>>>>>> working
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -278,25 +437,43 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected=".NET Project.Default">
     <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="$PROJECT_DIR$/leungware v420/bin/Debug/leungware v420.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/leungware v420/bin/Debug" />
+=======
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+>>>>>>> working
       <option name="PASS_PARENT_ENVS" value="1" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
+<<<<<<< HEAD
       <option name="PROJECT_PATH" value="$PROJECT_DIR$/leungware v420/leungware v420.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
       <option name="PROJECT_KIND" value="Console" />
       <option name="PROJECT_TFM" value=".NETFramework,Version=v4.6.1" />
+=======
+      <option name="PROJECT_PATH" value="" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="None" />
+      <option name="PROJECT_TFM" value="" />
+>>>>>>> working
       <method v="2">
         <option name="Build" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <configuration name="leungware_v420.ExecutorClass.LaunchChrome" type="DotNetStaticMethod" factoryName=".NET Static Method" temporary="true">
       <option name="EXE_PATH" value="C:\Program Files\JetBrains\JetBrains Rider 2019.1.1\lib\ReSharperHost\JetLauncherILc.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -335,6 +512,8 @@
         <item itemvalue=".NET Static Method.leungware_v420.MaliciousClass.CrashProgram" />
       </list>
     </recent_temporary>
+=======
+>>>>>>> working
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -347,16 +526,23 @@
       <option name="presentableId" value="Default" />
       <updated>1567990819797</updated>
       <workItem from="1567990823747" duration="738000" />
+<<<<<<< HEAD
       <workItem from="1568424883241" duration="121000" />
       <workItem from="1568819817407" duration="17000" />
       <workItem from="1568819880162" duration="7528000" />
       <workItem from="1569274807245" duration="1077000" />
       <workItem from="1569283464918" duration="4784000" />
+=======
+>>>>>>> working
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="14265000" />
+=======
+    <option name="totallyTimeSpent" value="738000" />
+>>>>>>> working
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -368,6 +554,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
+<<<<<<< HEAD
     <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.116805725" />
@@ -399,16 +586,51 @@
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="right" id="Database" order="5" />
       <window_info anchor="right" id="Unit Tests Coverage" order="6" />
+=======
+    <frame x="933" y="0" width="1634" height="1407" extended-state="0" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Image Layers" />
+      <window_info id="Capture Tool" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24968234" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="NuGet" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Unit Tests" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Performance Profiler" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Designer Toolbox" side_tool="true" visible="true" weight="0.32973316" />
+      <window_info anchor="right" id="Errors In Solution" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Unit Tests Coverage" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+>>>>>>> working
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+<<<<<<< HEAD
   <component name="VcsManagerConfiguration">
     <ignored-roots>
       <path value="$PROJECT_DIR$/leungware" />
     </ignored-roots>
   </component>
+=======
+>>>>>>> working
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -420,6 +642,7 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/leungware v420/BreakStuff.cs" />
     <entry file="file://$PROJECT_DIR$/leungware v420/App.config">
       <provider selected="true" editor-type-id="text-editor" />
@@ -606,11 +829,58 @@
             <marker date="1569288037448" expanded="true" signature="464:653" ph="{...}" />
             <marker date="1569288037448" expanded="true" signature="675:817" ph="{...}" />
             <marker date="1569288037448" expanded="true" signature="863:929" ph="{...}" />
+=======
+    <entry file="file://$PROJECT_DIR$/leungware v420/Form2.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+          <folding>
+            <marker date="1567994677075" expanded="false" signature="6:213" ph="..." />
+            <marker date="1567994677075" expanded="true" signature="239:572" ph="{...}" />
+            <marker date="1567994677075" expanded="true" signature="279:570" ph="{...}" />
+            <marker date="1567994677075" expanded="true" signature="308:363" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+      <provider editor-type-id="WinFormsEditor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leungware v420/Form1.resx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leungware v420/Resources/3s12s312s3.PNG">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leungware v420/Form1.Designer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="672">
+          <caret line="116" column="17" selection-start-line="116" selection-start-column="17" selection-end-line="116" selection-end-column="17" />
+          <folding>
+            <marker date="1567991809349" expanded="true" signature="24:5257" ph="{...}" />
+            <marker date="1567991809349" expanded="true" signature="50:5255" ph="{...}" />
+            <marker date="1567991809349" expanded="true" signature="65:141" ph="/// Required designer variable. ... " />
+            <marker date="1567991809349" expanded="true" signature="219:410" ph="/// Clean up any resources being used. ... " />
+            <marker date="1567991809349" expanded="true" signature="466:640" ph="{...}" />
+            <marker date="1567991809349" expanded="true" signature="527:593" ph="{...}" />
+            <marker date="1567991809349" expanded="false" signature="650:4961" ph="Windows Form Designer generated code" />
+            <marker date="1567991809349" expanded="true" signature="704:867" ph="/// Required method for Designer support - do not modify ... " />
+            <marker date="1567991809349" expanded="true" signature="910:4941" ph="{...}" />
+            <marker date="1567991809349" expanded="true" signature="1563:1604" ph="/* label1 ... */" />
+            <marker date="1567991809349" expanded="true" signature="1999:2045" ph="/* pictureBox3 ... */" />
+            <marker date="1567991809349" expanded="true" signature="2529:2575" ph="/* pictureBox2 ... */" />
+            <marker date="1567991809349" expanded="true" signature="3063:3109" ph="/* pictureBox1 ... */" />
+            <marker date="1567991809349" expanded="true" signature="3585:3627" ph="/* button1 ... */" />
+            <marker date="1567991809349" expanded="true" signature="4041:4081" ph="/* Form1 ... */" />
+>>>>>>> working
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/leungware v420/Form1.cs">
+<<<<<<< HEAD
       <provider editor-type-id="WinFormsEditor" />
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="591">
@@ -642,6 +912,21 @@
           </folding>
         </state>
       </provider>
+=======
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="18" column="34" lean-forward="true" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
+          <folding>
+            <marker date="1567994493634" expanded="false" signature="6:213" ph="..." />
+            <marker date="1567994493634" expanded="true" signature="239:645" ph="{...}" />
+            <marker date="1567994493634" expanded="true" signature="279:643" ph="{...}" />
+            <marker date="1567994493634" expanded="true" signature="308:420" ph="{...}" />
+            <marker date="1567994493634" expanded="true" signature="484:637" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+      <provider editor-type-id="WinFormsEditor" />
+>>>>>>> working
     </entry>
   </component>
 </project>
