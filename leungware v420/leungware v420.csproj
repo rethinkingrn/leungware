@@ -46,22 +46,45 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ExecutorClass.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
-    <Compile Include="Form2.cs">
+    <Compile Include="placebo area.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form2.Designer.cs">
-      <DependentUpon>Form2.cs</DependentUpon>
+    <Compile Include="placebo area.Designer.cs">
+      <DependentUpon>placebo area.cs</DependentUpon>
     </Compile>
+    <Compile Include="clicker.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="clicker.Designer.cs">
+      <DependentUpon>clicker.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LeungWareToolBoard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LeungWareToolBoard.Designer.cs">
+      <DependentUpon>LeungWareToolBoard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MaliciousClass.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="placebo area.resx">
+      <DependentUpon>placebo area.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="clicker.resx">
+      <DependentUpon>clicker.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LeungWareToolBoard.resx">
+      <DependentUpon>LeungWareToolBoard.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -87,13 +110,19 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\3s12s312s3.PNG" />
+    <None Include="Resources\HenryDistorted.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\12.jpg" />
+    <None Include="Resources\HenrySnapchat.jpg" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\1212121.jpg" />
+    <None Include="Resources\HenryLooking.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hqdefault.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
