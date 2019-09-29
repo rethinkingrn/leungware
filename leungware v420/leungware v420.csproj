@@ -56,6 +56,12 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="leungHOOK.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="leungHOOK.Designer.cs">
+      <DependentUpon>leungHOOK.cs</DependentUpon>
+    </Compile>
     <Compile Include="IDEAS HERE.cs" />
     <Compile Include="placebo area.cs">
       <SubType>Form</SubType>
@@ -80,6 +86,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="leungHOOK.resx">
+      <DependentUpon>leungHOOK.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="placebo area.resx">
       <DependentUpon>placebo area.cs</DependentUpon>
@@ -130,6 +139,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\21-gaming-setups-in-fridge.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rethinkinghook.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

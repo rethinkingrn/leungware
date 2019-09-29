@@ -65,7 +65,7 @@
             // 
             this.linkLabel1.AutoSize = true;
             this.linkLabel1.Font = new System.Drawing.Font("Microsoft Sans Serif", 20F);
-            this.linkLabel1.Location = new System.Drawing.Point(652, 497);
+            this.linkLabel1.Location = new System.Drawing.Point(653, 499);
             this.linkLabel1.Name = "linkLabel1";
             this.linkLabel1.Size = new System.Drawing.Size(162, 31);
             this.linkLabel1.TabIndex = 5;
