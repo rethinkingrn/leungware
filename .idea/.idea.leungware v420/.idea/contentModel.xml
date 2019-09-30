@@ -12,7 +12,10 @@
         <e p="Form1.cs" t="Include" />
         <e p="Form1.Designer.cs" t="Include" />
         <e p="Form1.resx" t="Include" />
-        <e p="IDEAS HERE.cs" t="Include" />
+        <e p="ideas.txt" t="Include" />
+        <e p="leungHOOK.cs" t="Include" />
+        <e p="leungHOOK.Designer.cs" t="Include" />
+        <e p="leungHOOK.resx" t="Include" />
         <e p="leungware v420.csproj" t="IncludeRecursive" />
         <e p="LeungWareToolBoard.cs" t="Include" />
         <e p="LeungWareToolBoard.Designer.cs" t="Include" />
@@ -37,6 +40,7 @@
           <e p="HenryLooking.jpg" t="Include" />
           <e p="HenrySnapchat.jpg" t="Include" />
           <e p="hqdefault.jpg" t="Include" />
+          <e p="rethinkinghook.png" t="Include" />
         </e>
       </e>
       <e p="leungware v420.sln" t="IncludeFlat" />

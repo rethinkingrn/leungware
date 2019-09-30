@@ -62,7 +62,6 @@
     <Compile Include="leungHOOK.Designer.cs">
       <DependentUpon>leungHOOK.cs</DependentUpon>
     </Compile>
-    <Compile Include="IDEAS HERE.cs" />
     <Compile Include="placebo area.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -142,6 +141,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\rethinkinghook.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="ideas.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

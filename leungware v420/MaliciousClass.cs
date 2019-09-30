@@ -31,5 +31,15 @@ namespace leungware_v420
         {
             Double[] values = GetData();
         }
+
+        public void SlowDownApplication(int dividend)
+        {
+            for (long i = 0; (i < int.MaxValue / dividend); i++)
+            {
+                var inst = new MaliciousClass();
+                List<double> strList = new List<double>();
+                strList.Add(Double.MaxValue);
+            }
+        }
     }
 }
