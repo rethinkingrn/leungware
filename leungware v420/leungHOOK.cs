@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace leungware_v420
 {
-    public partial class leungHOOK : Form
+    public partial class LeungHook : Form
     {
-        public leungHOOK()
+        public LeungHook()
         {
             InitializeComponent();
         }

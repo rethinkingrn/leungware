@@ -4,3 +4,11 @@ C:\leungware\leungware v420\obj\Release\leungware_v420.LeungWareToolBoard.resour
 C:\leungware\leungware v420\obj\Release\leungware_v420.Properties.Resources.resources
 C:\leungware\leungware v420\obj\Release\leungware v420.csproj.GenerateResource.cache
 C:\leungware\leungware v420\obj\Release\leungware v420.csproj.CoreCompileInputs.cache
+C:\leungware\leungware v420\bin\Release\leungware v420.exe.config
+C:\leungware\leungware v420\bin\Release\leungware v420.exe
+C:\leungware\leungware v420\bin\Release\leungware v420.pdb
+C:\leungware\leungware v420\obj\Release\leungware_v420.leungHOOK.resources
+C:\leungware\leungware v420\obj\Release\leungware_v420.PLACEBO.resources
+C:\leungware\leungware v420\obj\Release\leungware_v420.clicker.resources
+C:\leungware\leungware v420\obj\Release\leungware v420.exe
+C:\leungware\leungware v420\obj\Release\leungware v420.pdb

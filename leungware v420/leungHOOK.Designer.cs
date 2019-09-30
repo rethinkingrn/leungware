@@ -1,6 +1,6 @@
 ﻿namespace leungware_v420
 {
-    partial class leungHOOK
+    partial class LeungHook
     {
         /// <summary>
         /// Required designer variable.
@@ -149,7 +149,7 @@
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.trackBar1);
-            this.Name = "leungHOOK";
+            this.Name = "LeungHook";
             this.Text = "Form2";
             ((System.ComponentModel.ISupportInitialize)(this.trackBar1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.trackBar2)).EndInit();

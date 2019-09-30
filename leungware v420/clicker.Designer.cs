@@ -1,6 +1,6 @@
 ﻿namespace leungware_v420
 {
-    partial class clicker
+    partial class Clicker
     {
         /// <summary>
         /// Required designer variable.
@@ -183,7 +183,7 @@
             this.Controls.Add(this.button1);
             this.Controls.Add(this.pictureBox1);
             this.MaximizeBox = false;
-            this.Name = "clicker";
+            this.Name = "Clicker";
             this.ShowIcon = false;
             this.Text = "leungClicker";
             ((System.ComponentModel.ISupportInitialize)(this.trackBar1)).EndInit();

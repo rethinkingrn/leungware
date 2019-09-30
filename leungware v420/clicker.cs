@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace leungware_v420
 {
-    public partial class clicker : Form
+    public partial class Clicker : Form
     {
-        public clicker()
+        public Clicker()
         {
             InitializeComponent();
         }
@@ -25,7 +25,7 @@ namespace leungware_v420
                 if (dialog == DialogResult.Yes)
             {
                 this.Hide();
-                var back = new PLACEBO();
+                var back = new Placebo();
                 back.Show();
 
             }
