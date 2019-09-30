@@ -42,3 +42,6 @@ C:\Users\Matthew\Documents\GitHub\leungware\leungware v420\obj\Debug\leungware v
 C:\Users\Matthew\Documents\GitHub\leungware\leungware v420\obj\Debug\leungware v420.exe
 C:\Users\Matthew\Documents\GitHub\leungware\leungware v420\obj\Debug\leungware v420.pdb
 C:\Users\Matthew\Documents\GitHub\leungware\leungware v420\obj\Debug\leungware_v420.leungHOOK.resources
+C:\leungware\leungware v420\obj\Debug\leungware_v420.leungHOOK.resources
+C:\leungware\leungware v420\obj\Debug\leungware_v420.PLACEBO.resources
+C:\leungware\leungware v420\obj\Debug\leungware_v420.clicker.resources

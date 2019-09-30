@@ -5,6 +5,7 @@ namespace leungware_v420
 {
     public partial class LeungWareToolBoard : Form
     {
+        // ReSharper disable once MemberCanBePrivate.Global
         public bool DoExcecuteWithAdminRights = false;
         public LeungWareToolBoard()
         {
@@ -20,7 +21,6 @@ namespace leungware_v420
         {
             
         }
-
         private void button1_Click(object sender, EventArgs e)
         {
             var instance = new ExecutorClass();
