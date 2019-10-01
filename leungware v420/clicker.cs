@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace leungware_v420
 {
-    public partial class clicker : Form
+    public partial class Clicker : Form
     {
-        public clicker()
+        public Clicker()
         {
             InitializeComponent();
         }
@@ -25,7 +25,7 @@ namespace leungware_v420
                 if (dialog == DialogResult.Yes)
             {
                 this.Hide();
-                var back = new PLACEBO();
+                var back = new Placebo();
                 back.Show();
 
             }
@@ -37,6 +37,7 @@ namespace leungware_v420
 
         private void checkBox1_CheckedChanged(object sender, EventArgs e)
         {
+            
         }
 
         private void trackBar1_Scroll(object sender, EventArgs e)
@@ -48,7 +49,7 @@ namespace leungware_v420
         {
             label4.Text = trackBar2.Value.ToString();
         }
-        // basically explaing what each of the buttons does
+        // basically explaning what each of the buttons does
         private void button3_Click(object sender, EventArgs e)
         {
             MessageBox.Show("The amount of Clicks that are happening in a second");

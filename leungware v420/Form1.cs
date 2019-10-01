@@ -31,6 +31,7 @@ namespace leungware_v420
 
         private void pictureBox1_Click(object sender, EventArgs e)
         {
+            // ReSharper disable once HeapView.ObjectAllocation.Evident
             throw new System.NotImplementedException();
         }
 
@@ -49,7 +50,7 @@ namespace leungware_v420
         {
             // opens the placebo part (nothing acutally works here)
             MessageBox.Show("sksksksksksksksksksksksksksksk");
-            var placebo = new PLACEBO();
+            var placebo = new Placebo();
             placebo.Show();
         }
 

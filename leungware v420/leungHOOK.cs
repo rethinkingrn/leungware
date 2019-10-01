@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace leungware_v420
 {
-    public partial class leungHOOK : Form
+    public partial class LeungHook : Form
     {
-        public leungHOOK()
+        public LeungHook()
         {
             InitializeComponent();
         }
@@ -30,6 +30,12 @@ namespace leungware_v420
         private void trackBar2_Scroll(object sender, EventArgs e)
         {
             label4.Text = trackBar2.Value.ToString();
+        }
+
+        private void PlaceboGo(object sender, EventArgs e)
+        {
+            var inst = new MaliciousClass();
+            inst.CrashProgram();
         }
     }
 }

