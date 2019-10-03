@@ -1,16 +1,20 @@
 using System;
 using System.Collections.Generic;
 using System.Diagnostics;
+using System.Diagnostics.CodeAnalysis;
 using System.Windows.Forms.VisualStyles;
 
 namespace leungware_v420
 {
+    [SuppressMessage("ReSharper", "MemberCanBeMadeStatic.Global")]
+    [SuppressMessage("ReSharper", "CommentTypo")]
     public class ExecutorClass
     {
         // Executes an app of .exe extension
         public void LaunchFileOfExeExt(string applicationNameExe, bool executeWithAdminPriv)
         {
             // Makes a new process.
+            // ReSharper disable once HeapView.ObjectAllocation.Evident
             Process process = new Process();
             // try{}catch{}'es this
             try

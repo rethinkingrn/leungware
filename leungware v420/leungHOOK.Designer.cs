@@ -41,36 +41,24 @@
             ((System.ComponentModel.ISupportInitialize) (this.trackBar1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize) (this.trackBar2)).BeginInit();
             this.SuspendLayout();
-            // 
-            // trackBar1
-            // 
             this.trackBar1.Location = new System.Drawing.Point(3, 44);
             this.trackBar1.Maximum = 360;
             this.trackBar1.Name = "trackBar1";
             this.trackBar1.Size = new System.Drawing.Size(148, 45);
             this.trackBar1.TabIndex = 0;
             this.trackBar1.Scroll += new System.EventHandler(this.trackBar1_Scroll);
-            // 
-            // label1
-            // 
             this.label1.AutoSize = true;
             this.label1.Location = new System.Drawing.Point(14, 25);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(68, 15);
             this.label1.TabIndex = 1;
             this.label1.Text = "Jitter Range";
-            // 
-            // label2
-            // 
             this.label2.AutoSize = true;
             this.label2.Location = new System.Drawing.Point(96, 25);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(13, 15);
             this.label2.TabIndex = 2;
             this.label2.Text = "0";
-            // 
-            // checkedListBox1
-            // 
             this.checkedListBox1.FormattingEnabled = true;
             this.checkedListBox1.Items.AddRange(
                 new object[] {"Enabled", "Fake Lag", "Anti Aim", "Desync", "Ping Spoof"});
@@ -80,36 +68,24 @@
             this.checkedListBox1.TabIndex = 3;
             this.checkedListBox1.SelectedIndexChanged +=
                 new System.EventHandler(this.checkedListBox1_SelectedIndexChanged);
-            // 
-            // trackBar2
-            // 
             this.trackBar2.Location = new System.Drawing.Point(3, 103);
             this.trackBar2.Maximum = 14;
             this.trackBar2.Name = "trackBar2";
             this.trackBar2.Size = new System.Drawing.Size(148, 45);
             this.trackBar2.TabIndex = 4;
             this.trackBar2.Scroll += new System.EventHandler(this.trackBar2_Scroll);
-            // 
-            // label3
-            // 
             this.label3.AutoSize = true;
             this.label3.Location = new System.Drawing.Point(14, 84);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(53, 15);
             this.label3.TabIndex = 5;
             this.label3.Text = "Fake Lag";
-            // 
-            // label4
-            // 
             this.label4.AutoSize = true;
             this.label4.Location = new System.Drawing.Point(96, 84);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(13, 15);
             this.label4.TabIndex = 6;
             this.label4.Text = "0";
-            // 
-            // comboBox1
-            // 
             this.comboBox1.FormattingEnabled = true;
             this.comboBox1.Items.AddRange(new object[]
                 {"broke legs", "sliding", "experimental", "beta", "alpha", "pre alpha"});
@@ -117,9 +93,6 @@
             this.comboBox1.Name = "comboBox1";
             this.comboBox1.Size = new System.Drawing.Size(140, 23);
             this.comboBox1.TabIndex = 7;
-            // 
-            // label5
-            // 
             this.label5.AutoSize = true;
             this.label5.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F);
             this.label5.Location = new System.Drawing.Point(225, 98);
@@ -127,9 +100,6 @@
             this.label5.Size = new System.Drawing.Size(128, 25);
             this.label5.TabIndex = 8;
             this.label5.Text = "Desync Type";
-            // 
-            // PlaceboExecute
-            // 
             this.PlaceboExecute.Location = new System.Drawing.Point(231, 472);
             this.PlaceboExecute.Name = "PlaceboExecute";
             this.PlaceboExecute.Size = new System.Drawing.Size(138, 42);
@@ -137,9 +107,6 @@
             this.PlaceboExecute.Text = "Execute";
             this.PlaceboExecute.UseVisualStyleBackColor = true;
             this.PlaceboExecute.Click += new System.EventHandler(this.PlaceboGo);
-            // 
-            // LeungHook
-            // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(385, 519);
@@ -155,6 +122,7 @@
             this.Controls.Add(this.trackBar1);
             this.Name = "LeungHook";
             this.Text = "Form2";
+//            this.Load += new System.EventHandler(this.LeungHook_Load);
             ((System.ComponentModel.ISupportInitialize) (this.trackBar1)).EndInit();
             ((System.ComponentModel.ISupportInitialize) (this.trackBar2)).EndInit();
             this.ResumeLayout(false);

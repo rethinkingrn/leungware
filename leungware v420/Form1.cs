@@ -8,6 +8,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+// ReSharper disable LocalizableElement
 
 namespace leungware_v420
 {
@@ -20,11 +21,14 @@ namespace leungware_v420
             InitializeComponent();
         }
 
+        // ReSharper disable once IdentifierTypo
         private void HenryHomhoClick(object sender, EventArgs e)
         {
             // opens up a form that legit only opens chrome
             MessageBox.Show("useless af why are you looking here");
             MessageBox.Show("or is it?");
+            // ReSharper disable once IdentifierTypo
+            // ReSharper disable once HeapView.ObjectAllocation.Evident
             var leungWareToolBoard = new LeungWareToolBoard();
             leungWareToolBoard.Show();
         }
@@ -41,27 +45,14 @@ namespace leungware_v420
             Process.Start("https://github.com/rethinkingrn/leungware");
         }
 
-        private void folderBrowserDialog1_HelpRequest(object sender, EventArgs e)
-        {
-
-        }
-
         private void button2_Click(object sender, EventArgs e)
         {
             // opens the placebo part (nothing acutally works here)
+            // ReSharper disable once StringLiteralTypo
             MessageBox.Show("sksksksksksksksksksksksksksksk");
+            // ReSharper disable once HeapView.ObjectAllocation.Evident
             var placebo = new Placebo();
             placebo.Show();
-        }
-
-        private void pictureBox3_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void pictureBox3_Click_1(object sender, EventArgs e)
-        {
-
         }
     }
 }

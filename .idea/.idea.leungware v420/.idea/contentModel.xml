@@ -10,9 +10,6 @@
         <e p="clicker.Designer.cs" t="Include" />
         <e p="clicker.resx" t="Include" />
         <e p="ExecutorClass.cs" t="Include" />
-        <e p="Form1.cs" t="Include" />
-        <e p="Form1.Designer.cs" t="Include" />
-        <e p="Form1.resx" t="Include" />
         <e p="ideas.txt" t="Include" />
         <e p="leungHOOK.cs" t="Include" />
         <e p="leungHOOK.Designer.cs" t="Include" />
@@ -23,6 +20,9 @@
         <e p="LeungWareToolBoard.resx" t="Include" />
         <e p="MaliciousClass.cs" t="Include" />
         <e p="obj" t="ExcludeRecursive" />
+        <e p="OriginForm.cs" t="Include" />
+        <e p="OriginForm.Designer.cs" t="Include" />
+        <e p="OriginForm.resx" t="Include" />
         <e p="placebo area.cs" t="Include" />
         <e p="placebo area.Designer.cs" t="Include" />
         <e p="placebo area.resx" t="Include" />
