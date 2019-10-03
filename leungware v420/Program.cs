@@ -6,6 +6,7 @@ using System.Windows.Forms;
 
 namespace leungware_v420
 {
+    // ReSharper disable once ArrangeTypeModifiers
     static class Program
     {
         /// <summary>

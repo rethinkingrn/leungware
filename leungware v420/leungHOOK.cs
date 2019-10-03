@@ -10,8 +10,10 @@ using System.Windows.Forms;
 
 namespace leungware_v420
 {
+    // ReSharper disable once IdentifierTypo
     public partial class LeungHook : Form
     {
+        // ReSharper disable once IdentifierTypo
         public LeungHook()
         {
             InitializeComponent();

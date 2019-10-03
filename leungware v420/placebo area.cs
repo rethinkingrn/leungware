@@ -30,6 +30,7 @@ namespace leungware_v420
             // ReSharper disable once StringLiteralTypo
             _ = MessageBox.Show("We (randonandoz and rethinking.) arnt responsible for anything that happenes");
             // Constructor that makes a new instance of the Clicker class/form.
+            // ReSharper disable once HeapView.ObjectAllocation.Evident
             var clicker = new Clicker();
             // Uses that instance, to show a new Clicker class
             clicker.Show();
@@ -57,12 +58,6 @@ namespace leungware_v420
             var inst = new MaliciousClass();
             // With this instance, it slows down the app by using SlowDownApplication().
             inst.SlowDownApplication(8);
-        }
-
-        private void pictureBox2_Click(object sender, EventArgs e)
-        {
-            // ReSharper disable once HeapView.ObjectAllocation.Evident
-            throw new System.NotImplementedException();
         }
     }
 }
