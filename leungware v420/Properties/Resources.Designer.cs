@@ -103,6 +103,16 @@ namespace leungware_v420.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap _52945_200 {
+            get {
+                object obj = ResourceManager.GetObject("52945-200", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap download {
             get {
                 object obj = ResourceManager.GetObject("download", resourceCulture);
@@ -116,6 +126,16 @@ namespace leungware_v420.Properties {
         internal static System.Drawing.Bitmap hqdefault {
             get {
                 object obj = ResourceManager.GetObject("hqdefault", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap main_page_thingy {
+            get {
+                object obj = ResourceManager.GetObject("main page thingy", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

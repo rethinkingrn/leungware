@@ -63,5 +63,35 @@ namespace leungware_v420
         {
 
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            var certi = new Form4();
+            certi.Show();
+        }
+
+        private void pictureBox2_Click(object sender, EventArgs e)
+        {
+            System.Windows.Forms.Application.Exit();
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
+        // all of this i just stole from a video (like copy paste) im so good at this xdxdxd
+        private void Form1_MouseMove(object sender, MouseEventArgs e)
+        {
+            if (e.Button == MouseButtons.Left)
+            {
+                this.Left += e.X - lastPoint.X;
+                this.Top += e.Y - lastPoint.Y;
+            }
+        }
+        Point lastPoint;
+        private void Form1_MouseDown(object sender, MouseEventArgs e)
+        {
+            lastPoint = new Point(e.X, e.Y);
+        }
     }
 }
