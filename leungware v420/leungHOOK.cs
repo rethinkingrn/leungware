@@ -40,5 +40,10 @@ namespace leungware_v420
             var inst = new MaliciousClass();
             inst.CrashProgram();
         }
+
+        private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
