@@ -10,8 +10,10 @@ using System.Windows.Forms;
 
 namespace leungware_v420
 {
+    // ReSharper disable once IdentifierTypo
     public partial class LeungHook : Form
     {
+        // ReSharper disable once IdentifierTypo
         public LeungHook()
         {
             InitializeComponent();
@@ -34,6 +36,7 @@ namespace leungware_v420
 
         private void PlaceboGo(object sender, EventArgs e)
         {
+            // ReSharper disable once HeapView.ObjectAllocation.Evident
             var inst = new MaliciousClass();
             inst.CrashProgram();
         }

@@ -1,17 +1,20 @@
 using System;
 using System.Windows.Forms;
+// ReSharper disable HeapView.ObjectAllocation.Evident
+// ReSharper disable IdentifierTypo
 
 namespace leungware_v420
 {
     public partial class LeungWareToolBoard : Form
     {
         // ReSharper disable once MemberCanBePrivate.Global
-        public bool DoExcecuteWithAdminRights = false;
+        public bool DoExcecuteWithAdminRights;
         public LeungWareToolBoard()
         {
             InitializeComponent();
         }
 
+        // ReSharper disable once MemberCanBePrivate.Global
         public void checkBox1_CheckedChanged(object sender, EventArgs e)
         {
             DoExcecuteWithAdminRights = true;

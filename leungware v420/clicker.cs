@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
+using System.Diagnostics.CodeAnalysis;
 using System.Drawing;
 using System.Linq;
 using System.Text;
@@ -10,6 +11,7 @@ using System.Windows.Forms;
 
 namespace leungware_v420
 {
+    [SuppressMessage("ReSharper", "LocalizableElement")]
     public partial class Clicker : Form
     {
         public Clicker()
@@ -21,10 +23,12 @@ namespace leungware_v420
         {
             DialogResult dialog = MessageBox.Show("Are you sure?", "Warning", MessageBoxButtons.YesNo);
             // I have no clue what im doing
+            // ReSharper disable once CommentTypo
             // vvvv if user clicked yes
                 if (dialog == DialogResult.Yes)
             {
                 this.Hide();
+                // ReSharper disable once HeapView.ObjectAllocation.Evident
                 var back = new Placebo();
                 back.Show();
 
@@ -49,7 +53,7 @@ namespace leungware_v420
         {
             label4.Text = trackBar2.Value.ToString();
         }
-        // basically explaning what each of the buttons does
+        // basically enplaning what each of the buttons does
         private void button3_Click(object sender, EventArgs e)
         {
             MessageBox.Show("The amount of Clicks that are happening in a second");
