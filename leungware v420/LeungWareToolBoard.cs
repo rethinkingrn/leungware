@@ -1,5 +1,7 @@
 using System;
 using System.Windows.Forms;
+// ReSharper disable HeapView.ObjectAllocation.Evident
+// ReSharper disable IdentifierTypo
 
 namespace leungware_v420
 {

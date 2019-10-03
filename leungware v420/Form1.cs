@@ -8,6 +8,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+// ReSharper disable LocalizableElement
 
 namespace leungware_v420
 {
@@ -49,6 +50,7 @@ namespace leungware_v420
         private void button2_Click(object sender, EventArgs e)
         {
             // opens the placebo part (nothing acutally works here)
+            // ReSharper disable once StringLiteralTypo
             MessageBox.Show("sksksksksksksksksksksksksksksk");
             var placebo = new Placebo();
             placebo.Show();

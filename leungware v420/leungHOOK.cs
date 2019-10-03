@@ -34,6 +34,7 @@ namespace leungware_v420
 
         private void PlaceboGo(object sender, EventArgs e)
         {
+            // ReSharper disable once HeapView.ObjectAllocation.Evident
             var inst = new MaliciousClass();
             inst.CrashProgram();
         }

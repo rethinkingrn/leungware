@@ -14,6 +14,7 @@ namespace leungware_v420
         {
             // Essentially makes new versions of this process repeatedly, with NO END
             // use with caution!
+            // ReSharper disable once LoopVariableIsNeverChangedInsideLoop
             while (confirmation)
             {
                 Process.Start(Assembly.GetExecutingAssembly().Location);
@@ -37,6 +38,7 @@ namespace leungware_v420
         }
 
         // A function that uses the above GetData() function to crash the app, causing a System.OutOfMemoryException.
+        // ReSharper disable once MemberCanBeMadeStatic.Global
         public void CrashProgram()
         {
             // For rethinkingrn, try{}catch{} is essentially an if(true){}else{} for errors.
@@ -53,6 +55,7 @@ namespace leungware_v420
             }
         }
 
+        // ReSharper disable once MemberCanBeMadeStatic.Global
         public void SlowDownApplication(int dividend)
         {
             // Repeatedly makes a List<double> to really slow the app.

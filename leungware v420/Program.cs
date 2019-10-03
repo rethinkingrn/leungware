@@ -16,6 +16,7 @@ namespace leungware_v420
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
+            // ReSharper disable once HeapView.ObjectAllocation.Evident
             Application.Run(new Form1());
         }
     }
