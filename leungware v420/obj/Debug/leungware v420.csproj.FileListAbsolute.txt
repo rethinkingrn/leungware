@@ -46,3 +46,18 @@ C:\leungware\leungware v420\obj\Debug\leungware_v420.leungHOOK.resources
 C:\leungware\leungware v420\obj\Debug\leungware_v420.PLACEBO.resources
 C:\leungware\leungware v420\obj\Debug\leungware_v420.clicker.resources
 C:\Users\Matthew\Documents\GitHub\leungware\leungware v420\obj\Debug\leungware_v420.Form4.resources
+Z:\Host - Guest Shared Folder\leungware\leungware v420\bin\Debug\leungware v420.exe.config
+Z:\Host - Guest Shared Folder\leungware\leungware v420\bin\Debug\leungware v420.exe
+Z:\Host - Guest Shared Folder\leungware\leungware v420\bin\Debug\leungware v420.pdb
+Z:\Host - Guest Shared Folder\leungware\leungware v420\obj\Debug\leungware v420.csprojAssemblyReference.cache
+Z:\Host - Guest Shared Folder\leungware\leungware v420\obj\Debug\leungware_v420.Form1.resources
+Z:\Host - Guest Shared Folder\leungware\leungware v420\obj\Debug\leungware_v420.Form4.resources
+Z:\Host - Guest Shared Folder\leungware\leungware v420\obj\Debug\leungware_v420.LeungHook.resources
+Z:\Host - Guest Shared Folder\leungware\leungware v420\obj\Debug\leungware_v420.Placebo.resources
+Z:\Host - Guest Shared Folder\leungware\leungware v420\obj\Debug\leungware_v420.Clicker.resources
+Z:\Host - Guest Shared Folder\leungware\leungware v420\obj\Debug\leungware_v420.LeungWareToolBoard.resources
+Z:\Host - Guest Shared Folder\leungware\leungware v420\obj\Debug\leungware_v420.Properties.Resources.resources
+Z:\Host - Guest Shared Folder\leungware\leungware v420\obj\Debug\leungware v420.csproj.GenerateResource.cache
+Z:\Host - Guest Shared Folder\leungware\leungware v420\obj\Debug\leungware v420.csproj.CoreCompileInputs.cache
+Z:\Host - Guest Shared Folder\leungware\leungware v420\obj\Debug\leungware v420.exe
+Z:\Host - Guest Shared Folder\leungware\leungware v420\obj\Debug\leungware v420.pdb

@@ -36,9 +36,9 @@ namespace leungware_v420
                 }
             }
             // This catch is to prevent catastrophic failure of the app, causing a crash, instead, it handles it "gracefully"
-            catch (Exception e)
+            catch (Exception)
             {
-                Console.WriteLine(e);
+                // Do nothing
             }
         }
     }
